@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f8ea08-6191-440d-b374-c02d1620c4a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d0b9tvXtPm4entiLfOGqvU3jqm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Application.BiblioMain">
+    <configuration name="BiblioMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiblioMain" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bibliotek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bibliotek" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Broker1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Broker1" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenopfriskC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenopfriskC1" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyMain" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="Java_projects_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BiblioMain" />
+        <item itemvalue="Application.Bibliotek" />
+        <item itemvalue="Application.GenopfriskC1" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.MyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f8ea08-6191-440d-b374-c02d1620c4a9" name="Default Changelist" comment="" />
+      <created>1591564809384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591564809384</updated>
+      <workItem from="1591564810720" duration="14130000" />
+      <workItem from="1591994856594" duration="1111000" />
+      <workItem from="1598446840169" duration="47000" />
+      <workItem from="1598446957054" duration="9206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="57" y="43" key="#Project_Structure" timestamp="1598454094753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="57" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1598454094753" />
+    <state x="255" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591648299399">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="255" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1591648299399" />
+    <state x="382" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1591578129446">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="382" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1591578129446" />
+    <state x="408" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598446858220">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1598446858220" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1598459330085">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598459330085" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1598459330084">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598459330084" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1598459330084">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598459330084" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1598459330085">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598459330085" />
+    <state x="93" y="100" key="SettingsEditor" timestamp="1591721408928">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="93" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1591721408928" />
+    <state x="0" y="84" key="new project wizard" timestamp="1591771887120">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1591771887120" />
+    <state x="662" y="164" width="592" height="581" key="refactoring.ChangeSignatureDialog" timestamp="1591650484041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="662" y="164" width="592" height="581" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1591650484041" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inheritance2/src/Fourwheeler.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inheritance2/src/Vehicle1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Klasser3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayList/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Klasser1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Objekter1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lokker1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lokker2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lokker3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayList2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Scanner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LokkerTest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lokker2v2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk05/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
