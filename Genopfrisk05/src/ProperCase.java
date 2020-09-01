@@ -1,51 +1,45 @@
-/*
-import java.util.Scanner;
+// • Ord, som udelukkende er skrevet med store bogstaver, skal ikke ændres.
+// • Ord på mere end 3 bogstaver skal skrives med småt, dog med stort begyndelsesbogstav.
+// • Ord på max. 3 bogstaver skal skrives med småt.
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class ProperCase {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException {
 
-        properCaseChange();
-    }
+        System.out.println("\nPlease write words in different type cases, separated by spaces:");
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        // Actually use the Reader
+        String sentence = br.readLine();
 
-    public static void properCaseChange(){
+        String[] arrOfStr = sentence.split(" ");
+        for (String word: arrOfStr) {
 
-        Scanner input = new Scanner(System.in);
-        System.out.println("Please enter words in different typecases separated by spaces.");
-        String sentence = input.nextLine();
+            if (isStringUpperCase(word) == false) {
 
-        // • Ord, som udelukkende er skrevet med store bogstaver, skal ikke ændres.
-        // • Ord på mere end 3 bogstaver skal skrives med småt, dog med stort begyndelsesbogstav.
-        // • Ord på max. 3 bogstaver skal skrives med småt.
-
-        capitalize(sentence);
-        System.out.println(sentence);
-
-    }
-    public static String capitalize(String sentence) {
-        if(sentence == null || sentence.isEmpty()) {
-            return sentence;
+                if (word.length() > 3) {
+                    // Don't mistake String object with word Character object
+                    String longWord = word.substring(0, 1).toUpperCase();
+                    String nameCapitalized = longWord + word.substring(1);
+                    word = nameCapitalized + " ";
+                }
+                if (word.length() <= 3) {
+                    String shortWord = word.toLowerCase();
+                    word = shortWord + " ";
+                }
+            }
+            System.out.print(word);
         }
-
-        return sentence.substring(0, 1).toUpperCase() + sentence.substring(1);
+        System.out.println();
     }
 
-public class StringCheckIfUpperCaseExample {
-
-    public static void checkIfUpperCase
-
-    {
-
-        String str = "STRING123, TEST";
-
-        System.out.println("Is String uppercase?: " + isStringUpperCase(str));
-
-    }
-
-    private static boolean isStringUpperCase(String str) {
+    private static boolean isStringUpperCase (String word){
 
         //convert String to char array
-        char[] charArray = str.toCharArray();
+        char[] charArray = word.toCharArray();
 
         for (int i = 0; i < charArray.length; i++) {
 
@@ -55,17 +49,9 @@ public class StringCheckIfUpperCaseExample {
                 //if any character is not in upper case, return false
                 if (!Character.isUpperCase(charArray[i]))
                     return false;
-
-                // Alternative with lower case:
-                // if( Character.isLowerCase( charArray[i] ))
-
             }
         }
-
         return true;
-
-        }
     }
 }
 
-*/
