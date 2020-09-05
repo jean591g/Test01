@@ -17,7 +17,9 @@ public class ProperCase {
 
         String[] arrOfStr = sentence.split(" ");
         for (String word: arrOfStr) {
-
+            // kortere og smart anden måde at tjekke på Uppercase via Rune, uden if i if betingelse:
+            // if (sentence == sentence..toUpperCase(){
+            //   continue;}
             if (isStringUpperCase(word) == false) {
 
                 if (word.length() > 3) {
